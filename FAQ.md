@@ -5,4 +5,4 @@ openssl genrsa -out domain.key 2048
 
 # The process to apply a certficate generate so much files with different suffix. .csr, .key, .crt, .pem, .cer, .der, .pfk. What they represent
 
-# The length of a certificate and the data organized way. 
+# The length of a certificate and the data organized way.  

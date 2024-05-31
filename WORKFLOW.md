@@ -8,11 +8,11 @@ The time you push the file to respository
 The purpose of the change / create / delete the file
 
 3. STATUS
-The status of the file. The val is limited. 
-(1) new:  Create a new file
-(2) change: Change the content
-(3) update: Add new content into the file
-(4) delete: delete a file
+The status of the file. The val is limited.  
+(1) new:  Create a new file 
+(2) change: Change the content 
+(3) update: Add new content into the file  
+(4) delete: delete a file 
 
 4. IMPACT
 The impact how the commit of this file impact the environment. There are only limited vaules
@@ -22,3 +22,6 @@ The impact how the commit of this file impact the environment. There are only li
 
 5. USER: 
 The Github user name of the sumitter
+
+
+# Git Command Details
