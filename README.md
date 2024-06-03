@@ -12,3 +12,14 @@ Reference: https://en.wikipedia.org/wiki/Certificate_signing_request
 
 ## Generate Client Self-signed Certifiacte
 Only used for quick deployment and test environment
+
+
+# OPENSSL related command
+1. Install OPENSSL
+
+2. 
+
+3. Decode a certificate
+```shell
+openssl x509 -in certficate.path --noout -text
+```

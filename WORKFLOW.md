@@ -5,7 +5,7 @@
 The time you push the file to respository
 
 2. PURPOSE
-The purpose of the change / create / delete the file
+The purpose of the change / create / delete the file. Use the simeplest statment to describe the purpose of the commit
 
 3. STATUS
 The status of the file. The val is limited.  
